@@ -128,6 +128,21 @@ export default function App() {
       fontFamily:"arial, sans-serif",
       shadow: "0 10px 30px rgba(0,0,0,0.2)"
     },
+     {
+      name: "ملك",
+      message:"ملوكك، عيدك مبارك يا حلوو، وجودك بالتايملاين متعة لا تقطعي علينا كثير، الله يوفقك ويسعدك، استمتعي بيومكك~(￣▽￣)~*",
+      photo: "/kwan7.png",
+      secondImage: "/cro.png",
+      thirdImage: "/arr4.png",
+      bg: "#FFFACD",
+
+      cardBg: "#ffffff",
+      textColor: "#3c3b00",
+      borderColor: "#ecf0d7",
+      borderRadius: "20px",
+      fontFamily:"arial, sans-serif",
+      shadow: "0 10px 30px rgba(0,0,0,0.2)"
+    },
   ];
 
   // Handle window resize for responsive behavior
