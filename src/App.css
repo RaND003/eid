@@ -73,9 +73,9 @@ h1 {
   height: 100vh;
   background-color: #ea8383;
   background-image: url("/start.png");
-  background-position: right center;
+  background-position: right center ;
   background-repeat: no-repeat;
-  background-size: 50%;
+  background-size: 60%;
   background-attachment: fixed;
   display: flex;
   flex-direction: column;
