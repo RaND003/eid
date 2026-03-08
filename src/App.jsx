@@ -173,6 +173,21 @@ export default function App() {
       fontFamily:"arial, sans-serif",
       shadow: "0 10px 30px rgba(0,0,0,0.2)"
     },
+     {
+      name: "ميساء",
+      message:"     ميسااا، عيدك مبارك خريجتنا، بحبك كثير وبحب عشوائية حكينا، ردودك دايماً بتضحك وبتفش الغل، الله يسعدك ويرضيك، خلينا نشوفك ليوم حبي، استمتعي بيومك         ฅ^>⩊<^ ฅ ",
+      photo: "/cat2.png",
+      secondImage: "/book2.png",
+      thirdImage: "/arr4.png",
+      bg: "#CC99E6",
+
+      cardBg: "#ffffff",
+      textColor: "#3c003a",
+      borderColor: "#e3d2e6",
+      borderRadius: "20px",
+      fontFamily:"arial, sans-serif",
+      shadow: "0 10px 30px rgba(0,0,0,0.2)"
+    },
 
   ];
 
