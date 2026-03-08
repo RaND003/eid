@@ -194,7 +194,7 @@ export default function App() {
       photo: "/coffe.png",
       secondImage: "/orange.png",
       thirdImage: "/arr4.png",
-      bg: "#FFB733",
+      bg: "#FF8C00",
 
       cardBg: "#ffffff",
       textColor: "#512f01",
