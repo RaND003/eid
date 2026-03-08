@@ -188,6 +188,21 @@ export default function App() {
       fontFamily:"arial, sans-serif",
       shadow: "0 10px 30px rgba(0,0,0,0.2)"
     },
+     {
+      name: "أيام",
+      message:"عيدكك مباركك أيام، برتقالتي الأردنية المفضلة، بعرفش أعبرلك بس كثير بحبك وبحب حكيك، وبموت بس نلاقي اهتمام مشترك بينا، الله ييسرلك أمرك ويسعدك دايماً، استمتعي بيومك حبي (≧∇≦)ﾉ",
+      photo: "/coffe.png",
+      secondImage: "/orange.png",
+      thirdImage: "/arr4.png",
+      bg: "#FFB733",
+
+      cardBg: "#ffffff",
+      textColor: "#512f01",
+      borderColor: "#e6dfd2",
+      borderRadius: "20px",
+      fontFamily:"arial, sans-serif",
+      shadow: "0 10px 30px rgba(0,0,0,0.2)"
+    },
 
   ];
 
