@@ -218,6 +218,22 @@ export default function App() {
       fontFamily:"arial, sans-serif",
       shadow: "0 10px 30px rgba(0,0,0,0.2)"
     },
+     {
+      name: "هيو",
+      message:"هيوو صديقي الأول بالموقع، عيدك مبارك يحلوو، مشتاقة لك كثيير، بتعرفيش كم مبسوطتلك لما أشوفك بالتابملاين هالفترة، إن شاء الله دايماً سعيدة وراضية، الله يوفقك وييسر أمرك، استمتعي بيومك                      ⪩. .⪨",
+      photo: "/horse3.png",
+      secondImage: "/cow2.png",
+      thirdImage: "/arr4.png",
+      bg: "#FFEE97",
+
+      cardBg: "#ffffff",
+      textColor: "#353d08",
+      borderColor: "#e7eac0",
+      borderRadius: "20px",
+      fontFamily:"arial, sans-serif",
+      shadow: "0 10px 30px rgba(0,0,0,0.2)"
+    },
+      
 
   ];
 
