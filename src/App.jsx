@@ -233,6 +233,21 @@ export default function App() {
       fontFamily:"arial, sans-serif",
       shadow: "0 10px 30px rgba(0,0,0,0.2)"
     },
+    {
+      name: "سمسم",
+      message:"سمسمسمسم، عيدك مبارك يعسل، عشوي ورح أنسى اسمك بس سمسم مثالي إلك، بحبك كثير وبحب حكيك وتحليلك، وجودك خفيف ومطمأن للنفس حتى لو ما بنحكي كثير، الله يسعدك وييسر أمرك، استمتعي بيومك يا حلوة (❁´◡`❁)",
+      photo: "/choco2.png",
+      secondImage: "/smsm2.png",
+      thirdImage: "/arr4.png",
+      bg: "#609090",
+
+      cardBg: "#ffffff",
+      textColor: "#042435",
+      borderColor: "#cfebf4",
+      borderRadius: "20px",
+      fontFamily:"arial, sans-serif",
+      shadow: "0 10px 30px rgba(0,0,0,0.2)"
+    },
       
 
   ];
