@@ -235,7 +235,7 @@ export default function App() {
     },
     {
       name: "سمسم",
-      message:"سمسمسمسم، عيدك مبارك يعسل، عشوي ورح أنسى اسمك بس سمسم مثالي إلك، بحبك كثير وبحب حكيك وتحليلك، وجودك خفيف ومطمأن للنفس حتى لو ما بنحكي كثير، الله يسعدك وييسر أمرك، استمتعي بيومك يا حلوة (❁´◡`❁)",
+      message:"سمسمسمسم، عيدك مبارك يعسل، اسم عمسمى وبرضو سمسم مثالي إلك، بحبك كثير وبحب حكيك وتحليلك، وجودك خفيف ومطمأن للنفس حتى لو ما بنحكي كثير، الله يسعدك وييسر أمرك، استمتعي بيومك يا حلوة (❁´◡`❁)",
       photo: "/choco2.png",
       secondImage: "/smsm2.png",
       thirdImage: "/arr4.png",
@@ -248,7 +248,21 @@ export default function App() {
       fontFamily:"arial, sans-serif",
       shadow: "0 10px 30px rgba(0,0,0,0.2)"
     },
-      
+    {
+      name: "سمية",
+      message:" عيدكك مباركك حرفيتنا، وجودك بالتايملاين سعادة، بحبك وبحب رسمك وتصويرك وإبداعك بالخياطة، أنتظر أتعرف عجانبك المجنون أكثر لا تخبيه، الله يسعدك وييسر أمرك، استمتعي بيومك ╰(*°▽°*)╯ ",
+      photo: "/river.png",
+      secondImage: "/flower2.png",
+      thirdImage: "/arr4.png",
+      bg: "#B261B2",
+
+      cardBg: "#ffffff",
+      textColor: "#1f022d",
+      borderColor: "#e5cff4",
+      borderRadius: "20px",
+      fontFamily:"arial, sans-serif",
+      shadow: "0 10px 30px rgba(0,0,0,0.2)"
+    },
 
   ];
 
