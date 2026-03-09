@@ -263,6 +263,21 @@ export default function App() {
       fontFamily:"arial, sans-serif",
       shadow: "0 10px 30px rgba(0,0,0,0.2)"
     },
+    {
+      name: "هنهن",
+      message:"هنيتي♡ عيدك مبارك حبيبتي، كثير كثير بحبك، وبحب أقرأ حكيك وأسمع صوتك، لفترة مش قصيرة كان صوتك نقطتي الآمنة كل ما حسيت بالفراغ والتنمل، كان يعيد أحاسيسي بالمحيط حولي وبنفسي، الله يسعدك ويوفقك ويرضيك، استمتعي بيومك قمري  (๑>◡<๑) ",
+      photo: "/cloud.png",
+      secondImage: "/sea.png",
+      thirdImage: "/arr4.png",
+      bg: "#C1E6FD",
+
+      cardBg: "#ffffff",
+      textColor: "#1f022d",
+      borderColor: "#e5cff4",
+      borderRadius: "20px",
+      fontFamily:"arial, sans-serif",
+      shadow: "0 10px 30px rgba(0,0,0,0.2)"
+    },
 
   ];
 
