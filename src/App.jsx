@@ -26,8 +26,8 @@ export default function App() {
     {
       name: "بتول",
       message:" حبي بتول، عسولتي الي ممكن أحكي معها عن أي إشي عشوائي، ممتنة إلك بشكل ما تتخيليه، بحبك كثير كثير، وفخورة وأنا أشوفك بتكبري و تتغيري للأحسن، الله يسعدك ويوفقك وييسر أمرك ويرضيك، عيدكك مبارككك استمتعي بيومك بسوريا                  ૮ ྀིᴗ͈ . ᴗ͈ ྀིა",
-      photo: "/batool.png",
-      secondImage: "/batool5.png",
+      photo: "/izuku2.png",
+      secondImage: "/izuku3.png",
       thirdImage: "/arr4.png",
       bg: "#C080C0",
 
@@ -132,7 +132,7 @@ export default function App() {
       name: "ملك",
       message:"ملوكك، عيدك مبارك يا حلوو، وجودك بالتايملاين متعة لا تقطعي علينا كثير، الله يوفقك ويسعدك، استمتعي بيومكك~(￣▽￣)~*",
       photo: "/kwan7.png",
-      secondImage: "/cro.png",
+      secondImage: "/blue.png",
       thirdImage: "/arr4.png",
       bg: "#FFFACD",
 
