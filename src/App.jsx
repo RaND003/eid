@@ -452,7 +452,7 @@ export default function App() {
       name: "آية",
       message:"عيدك مبارك آيوش ㄟ(≧◇≦)ㄏ",
       photo: "/paw.png",
-      secondImage: "/grass.png",
+      secondImage: "/tree.png",
       thirdImage: "/arr4.png",
       bg: "#FFB6C1",
 
@@ -474,6 +474,21 @@ export default function App() {
       cardBg: "#ffffff",
       textColor: "#210209",
       borderColor: "#efe2e5",
+      borderRadius: "20px",
+      fontFamily:"arial, sans-serif",
+      shadow: "0 10px 30px rgba(0,0,0,0.2)"
+    },
+    {
+      name: " حماد",
+      message:"عيدك مبارك عمي، تقبل الله طاعاتكم ㅤ♡",
+      photo: "/coffe.png",
+      secondImage: "/sheep.png",
+      thirdImage: "/arr4.png",
+      bg: "#d7fdfd",
+
+      cardBg: "#ffffff",
+      textColor: "#022120",
+      borderColor: "#e2edef",
       borderRadius: "20px",
       fontFamily:"arial, sans-serif",
       shadow: "0 10px 30px rgba(0,0,0,0.2)"
