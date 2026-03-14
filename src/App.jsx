@@ -434,6 +434,20 @@ export default function App() {
       borderRadius: "20px",
       fontFamily:"arial, sans-serif",
       shadow: "0 10px 30px rgba(0,0,0,0.2)"
+    },{
+      name: "ورود",
+      message:"عيدكك مباركك خالتيي (๑>◡<๑)",
+      photo: "/flowers7.png",
+      secondImage: "/wo.png",
+      thirdImage: "/arr4.png",
+      bg: "#E9DAC6",
+
+      cardBg: "#ffffff",
+      textColor: "#211102",
+      borderColor: "#f8e7d9",
+      borderRadius: "20px",
+      fontFamily:"arial, sans-serif",
+      shadow: "0 10px 30px rgba(0,0,0,0.2)"
     },
     
 
