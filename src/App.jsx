@@ -315,7 +315,7 @@ export default function App() {
 
       cardBg: "#ffffff",
       textColor: "#210211",
-      borderColor: "#e3d5df",
+      borderColor: "#f0dce3",
       borderRadius: "20px",
       fontFamily:"arial, sans-serif",
       shadow: "0 10px 30px rgba(0,0,0,0.2)"
