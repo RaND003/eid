@@ -309,7 +309,7 @@ export default function App() {
       name: "تولينا",
       message:" توليناا، عيدك مباركك حبيبتي، صديقي الجميل إلي محلي  أيام الجامعة، بحبك كثيير كثير وبتمنالك كل الخير بأيامك الجاية، استمتعي بيومك حبي 𓆩❤︎𓆪  ",
       photo: "/flowers.png",
-      secondImage: "/henna.png",
+      secondImage: "/mehndi.png",
       thirdImage: "/arr4.png",
       bg: "#FFE0E5",
 
