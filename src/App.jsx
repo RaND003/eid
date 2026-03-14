@@ -319,6 +319,20 @@ export default function App() {
       borderRadius: "20px",
       fontFamily:"arial, sans-serif",
       shadow: "0 10px 30px rgba(0,0,0,0.2)"
+    },{
+      name: "شهد",
+      message:"  شهوديي، عيدك مبارك يحلو، مهندستي إلي معي من أول يوم  ولحد فصل التخرج ❤︎ بحبك كثير وبحب تصويرك، الله يسعدك ويوفقك، استمتعي بيومك  (✿◠‿◠) ",
+      photo: "/flowers2.png",
+      secondImage: "/food2.png",
+      thirdImage: "/arr4.png",
+      bg: "#A68A65",
+
+      cardBg: "#ffffff",
+      textColor: "#211702",
+      borderColor: "#d0b99f",
+      borderRadius: "20px",
+      fontFamily:"arial, sans-serif",
+      shadow: "0 10px 30px rgba(0,0,0,0.2)"
     },
 
   ];
