@@ -378,6 +378,20 @@ export default function App() {
       borderRadius: "20px",
       fontFamily:"arial, sans-serif",
       shadow: "0 10px 30px rgba(0,0,0,0.2)"
+    },{
+      name: "ميما",
+      message:"عيدك مباركك ميما(✿◠‿◠)",
+      photo: "/flowers4.png",
+      secondImage: "/coffe4.png",
+      thirdImage: "/arr4.png",
+      bg: "#D8BFD8",
+
+      cardBg: "#ffffff",
+      textColor: "#21021a",
+      borderColor: "#f8d9f2",
+      borderRadius: "20px",
+      fontFamily:"arial, sans-serif",
+      shadow: "0 10px 30px rgba(0,0,0,0.2)"
     },
 
 
