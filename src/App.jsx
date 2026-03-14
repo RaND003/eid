@@ -291,6 +291,20 @@ export default function App() {
       borderRadius: "20px",
       fontFamily:"arial, sans-serif",
       shadow: "0 10px 30px rgba(0,0,0,0.2)"
+    },{
+      name: "فطوم",
+      message:"فطومي، عيدك مباركك وتقبل الله طاعاتك، بحبك كثير كثيير، الله يسعدك ويوفقك ويرضيك، استمتعي بيومك ૮(•͈⌔•͈)ა",
+      photo: "/pen.png",
+      secondImage: "/coffe3.png",
+      thirdImage: "/arr4.png",
+      bg: "#FAF0E6",
+
+      cardBg: "#ffffff",
+      textColor: "#211b02",
+      borderColor: "#f3f2f1",
+      borderRadius: "20px",
+      fontFamily:"arial, sans-serif",
+      shadow: "0 10px 30px rgba(0,0,0,0.2)"
     },
 
   ];
