@@ -392,7 +392,22 @@ export default function App() {
       borderRadius: "20px",
       fontFamily:"arial, sans-serif",
       shadow: "0 10px 30px rgba(0,0,0,0.2)"
+    },{
+      name: "لميس",
+      message:"عيدك مبارك خالتيي(✿◠‿◠)", 
+      photo: "/flowers6.png",
+      secondImage: "/coffe5.png",
+      thirdImage: "/arr4.png",
+      bg: "#FFC0CB",
+
+      cardBg: "#ffffff",
+      textColor: "#210209",
+      borderColor: "#f8d9e3",
+      borderRadius: "20px",
+      fontFamily:"arial, sans-serif",
+      shadow: "0 10px 30px rgba(0,0,0,0.2)"
     },
+    
 
 
 
