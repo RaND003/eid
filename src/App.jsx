@@ -420,6 +420,20 @@ export default function App() {
       borderRadius: "20px",
       fontFamily:"arial, sans-serif",
       shadow: "0 10px 30px rgba(0,0,0,0.2)"
+    },{
+      name: "بشرى",
+      message:"عيدكك مبارك خالتيي(˶ᵔ ᵕ ᵔ˶)",
+      photo: "/flowers5.png",
+      secondImage: "/smsm2.png",
+      thirdImage: "/arr4.png",
+      bg: "#FFDBE0",
+
+      cardBg: "#ffffff",
+      textColor: "#210208",
+      borderColor: "#f1e0e1",
+      borderRadius: "20px",
+      fontFamily:"arial, sans-serif",
+      shadow: "0 10px 30px rgba(0,0,0,0.2)"
     },
     
 
