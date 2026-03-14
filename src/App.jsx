@@ -305,6 +305,20 @@ export default function App() {
       borderRadius: "20px",
       fontFamily:"arial, sans-serif",
       shadow: "0 10px 30px rgba(0,0,0,0.2)"
+    },{
+      name: "تولينا",
+      message:" توليناا، عيدك مباركك حبيبتي، صديقي الجميل إلي محلي  أيام الجامعة، بحبك كثيير كثير وبتمنالك كل الخير بأيامك الجاية، استمتعي بيومك حبي 𓆩❤︎𓆪  ",
+      photo: "/flowers.png",
+      secondImage: "/henna.png",
+      thirdImage: "/arr4.png",
+      bg: "#FFE0E5",
+
+      cardBg: "#ffffff",
+      textColor: "#210211",
+      borderColor: "#e3d5df",
+      borderRadius: "20px",
+      fontFamily:"arial, sans-serif",
+      shadow: "0 10px 30px rgba(0,0,0,0.2)"
     },
 
   ];
