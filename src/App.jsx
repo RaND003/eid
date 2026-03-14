@@ -463,6 +463,21 @@ export default function App() {
       fontFamily:"arial, sans-serif",
       shadow: "0 10px 30px rgba(0,0,0,0.2)"
     },
+    {
+      name: "توحيد",
+      message:"عيدك مبارك توحيدةة، استمتعي بيومكك ꉂ(˵˃ ᗜ ˂˵)",
+      photo: "/travel3.png",
+      secondImage: "/teeth.png",
+      thirdImage: "/arr4.png",
+      bg: "#F7C5CF",
+
+      cardBg: "#ffffff",
+      textColor: "#210209",
+      borderColor: "#efe2e5",
+      borderRadius: "20px",
+      fontFamily:"arial, sans-serif",
+      shadow: "0 10px 30px rgba(0,0,0,0.2)"
+    },
     
 
 
