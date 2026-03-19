@@ -11,9 +11,9 @@ export default function App() {
    {
       name: "ميس",
       message: " ميسوو، عيدك مبارك يا جميلة ، بتنمالك كل التوفيق بحياتك وبإني أكون صاحبة ممكن تساعدك زي ما دايماً بتساعديني، بحبك كثير كثير كثير، استمتعي بيومك ᓚᘏᗢ ", 
-      photo: "/star.png",
-      secondImage: "/lib.png",
-      thirdImage: "/arr4.png",
+      photo: "star.png",
+      secondImage: "lib.png",
+      thirdImage: "arr4.png",
       bg: "#6185E0",
 
       cardBg: "#ffffff",
