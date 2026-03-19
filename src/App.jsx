@@ -26,9 +26,9 @@ export default function App() {
     {
       name: "بتول",
       message:" حبي بتول، عسولتي الي ممكن أحكي معها عن أي إشي عشوائي، ممتنة إلك بشكل ما تتخيليه، بحبك كثير كثير، وفخورة وأنا أشوفك بتكبري و تتغيري للأحسن، الله يسعدك ويوفقك وييسر أمرك ويرضيك، عيدكك مبارككك استمتعي بيومك بسوريا                  ૮ ྀིᴗ͈ . ᴗ͈ ྀིა",
-      photo: "/izuku2.png",
-      secondImage: "/izuku3.png",
-      thirdImage: "/arr4.png",
+      photo: "izuku2.png",
+      secondImage: "izuku3.png",
+      thirdImage: "arr4.png",
       bg: "#C080C0",
 
       cardBg: "#ffffff",
@@ -41,9 +41,9 @@ export default function App() {
     {
       name: "دمدم",
       message: " دمدوميي، عيدكك مبارك حبيي، جداً ممتنة لوجودك معي طول هالسنين، وبحب كيف متى ما حكينا مع بعض الوضع مريح، وجودك الطبيعي واشي بخاف ألاقيني معتادته، الله يسعدك وييسرلك أمرك ويرضيك، وبحبك كثير كثير كثير، استمتعي بيومك ㄟ(≧◇≦)ㄏ    ",
-      photo: "/gala.png",
-      secondImage: "/gala2.png",
-      thirdImage: "/arr4.png",
+      photo: "gala.png",
+      secondImage: "gala2.png",
+      thirdImage: "arr4.png",
       bg: "#8B0000",
 
       cardBg: "#ffffff",
@@ -56,9 +56,9 @@ export default function App() {
      {
       name: "زي",
       message:"زيي، عسولتيي إلي بحب الحكي معها، حسابك الثاني أفضل حساب بالموقع، مبسوطة إني قادر أحكي معك أكثر هالفترة، بحبكك كثير، الله يسعدك ويوفقك، عيدكك مباركك استمتعي بيومك     o((>ω< ))o",
-      photo: "/shua.png",
-      secondImage: "/ball.png",
-      thirdImage: "/arr4.png",
+      photo: "shua.png",
+      secondImage: "ball.png",
+      thirdImage: "arr4.png",
       bg: "#C080C0",
 
       cardBg: "#ffffff",
@@ -70,10 +70,10 @@ export default function App() {
     },
      {
       name: "ري",
-      message:"  ريرييي عيدك مباركك يا جميل، بحبك كثير كثير، وبحب الحكي معك والتشابهات الي دايما بنلقطها وبنضحك عليها، وتحملك لي كل يوم اثنين بعد دوامي اشي ما رح أنساه وجداً ممتنة له، وجودك سبب من أسباب رجعتي للحساب، الله يسعدك ويرضيك ويوفقك، استمتعي بيومك لوف يوو (.>‿<)ς",
-      photo: "/dokyeom.png",
-      secondImage: "/pinkflower.png",
-      thirdImage: "/arr4.png",
+      message:"  ريرييي عيدك مباركك يا جميل، بحبك كثير كثير، وبحب الحكي معك والتشابهات الي دايما بنلقطها وبنضحك عليها، وتحملك لي كل يوم اثنين بعد دوامي اشي ما رح أنساه وجداً ممتنة له، وجودك سبب من أسباب رجعتي للحساب، الله يسعدك ويرضيك ويوفقك， استمتعي بيومك لوف يوو (.>‿<)ς",
+      photo: "dokyeom.png",
+      secondImage: "pinkflower.png",
+      thirdImage: "arr4.png",
       bg: "#ADD8E6",
 
       cardBg: "#ffffff",
@@ -86,9 +86,9 @@ export default function App() {
      {
       name: "رينا",
       message:"رينو، اعتراف سريع كنت بشيل أي حدا بعملي فولو عبين ما عملتي انتي وتفنقرت إن وحدة من حساباتي المفضلة ما بقدر اشيلها، المهمم بحبك كثير كثيرر، الله يوفقك ويسعدك دايما، عيدكك مباركك واستمتعي بيومكك                  (≧◡≦) ♡",
-      photo: "/kwan3.png",
-      secondImage: "/sat.png",
-      thirdImage: "/arr4.png",
+      photo: "kwan3.png",
+      secondImage: "sat.png",
+      thirdImage: "arr4.png",
       bg: "#E0FFFF",
 
       cardBg: "#ffffff",
@@ -100,10 +100,10 @@ export default function App() {
     },
      {
       name: "ايسا",
-      message:"ايسا يا ايسا، ألطف وأعسل بنت بالكوكب، حاسة رح أخوفك بكمية الحب الي درميها عليك، بس جد الايدول تبعي (≧∀≦)ゞ ، جملة الكل يبدو أقبح عن قرب بتنطبقش عليك، كل ما أحكي معك أكثر بحبك زيادة، الله يريح بالك ويسعدك، عيدكك مبارك حبي ฅ՞•ﻌ•՞ฅ",
-      photo: "/vernon.png",
-      secondImage: "/draw4.png",
-      thirdImage: "/arr4.png",
+      message:"ايسا يا ايسا، ألطف وأعسل بنت بالكوكب، حاسة رح أخوفك بكمية الحب الي درميها عليك، بس جد الايدول تبعي (≧∀≦)ゞ ، جملة الكل يبدو أقبح عن قرب بتنطبقش عليك، كل ما أحكي معك أكثر بحبك زيادة، الله يريح بالك ويسعدك， عيدكك مبارك حبي ฅ՞•ﻌ•՞ฅ",
+      photo: "vernon.png",
+      secondImage: "draw4.png",
+      thirdImage: "arr4.png",
       bg: "#B37557",
 
       cardBg: "#ffffff",
@@ -116,9 +116,9 @@ export default function App() {
     {
       name: "لين",
       message:"ليونييي،  عيدك مباركك يا حلو، أول سبب خلاني أتابعك اللهجة بس طلعتي مخلوق عسول بنملش أحكي معه، الله يسعدك ويوفقك، استمتعي بيومك حبي     ఇ ◝‿◜ ఇ",
-      photo: "/jeonghan.png",
-      secondImage: "/jeonghan3.png",
-      thirdImage: "/arr4.png",
+      photo: "jeonghan.png",
+      secondImage: "jeonghan3.png",
+      thirdImage: "arr4.png",
       bg: "#8FBC8F",
 
       cardBg: "#ffffff",
@@ -131,9 +131,9 @@ export default function App() {
      {
       name: "ملك",
       message:"ملوكك، عيدك مبارك يا حلوو، وجودك بالتايملاين متعة وصوتك جميل جداً لا تقطعي علينا كثير، الله يوفقك ويسعدك، استمتعي بيومكك  ദ്ദി◝ ⩊ ◜.ᐟ ",
-      photo: "/kwan7.png",
-      secondImage: "/cro2.png",
-      thirdImage: "/arr4.png",
+      photo: "kwan7.png",
+      secondImage: "cro2.png",
+      thirdImage: "arr4.png",
       bg: "#FFFACD",
 
       cardBg: "#ffffff",
@@ -146,9 +146,9 @@ export default function App() {
     {
       name: "رسيل",
       message:"رزاي رسيل حبيبي البني، عيدك مباركك حبي، بتعرفيش كديش بحبك، كد ما بتمر فترات بننقطع عن بعض، بس مجرد ما أحكي معك بحس فش وقت مر، وجودك وتعرفي عليك من النقاط المهمة الي بحسها بتعرف حياتي بهذيك الفترة، الله يسعدك ويوفقك وييسر أمرك ويرضيك، بحبك كثير كثير، استمتعي بيومك يقمر (✿◠‿◠)",
-      photo: "/dazai4.png",
-      secondImage: "/book2.png",
-      thirdImage: "/arr4.png",
+      photo: "dazai4.png",
+      secondImage: "book2.png",
+      thirdImage: "arr4.png",
       bg: "#A0522D",
 
       cardBg: "#ffffff",
@@ -161,9 +161,9 @@ export default function App() {
     {
       name: "سنا",
       message:"سنسنسن، عيدكك مباركك يحلوو، مشتاقتلك كثير وبحب لما أشوفك مبسوطة بالتايملاين، الله يسعدك دايما وييسر أمرك ونشوفك أحلى عروس عخير، استمتعي بيومك (❁´◡`❁)",
-      photo: "/pedri.png",
-      secondImage: "/ste.png",
-      thirdImage: "/arr4.png",
+      photo: "pedri.png",
+      secondImage: "ste.png",
+      thirdImage: "arr4.png",
       bg: "#B261B2",
 
       cardBg: "#ffffff",
@@ -176,9 +176,9 @@ export default function App() {
      {
       name: "ميساء",
       message:"     ميسااا، عيدك مبارك خريجتنا، بحبك كثير وبحب عشوائية حكينا، ردودك دايماً بتضحك وبتفش الغل، الله يسعدك ويرضيك، خلينا نشوفك ليوم حبي، استمتعي بيومك         ฅ^>⩊<^ ฅ ",
-      photo: "/cat2.png",
-      secondImage: "/book2.png",
-      thirdImage: "/arr4.png",
+      photo: "cat2.png",
+      secondImage: "book2.png",
+      thirdImage: "arr4.png",
       bg: "#CC99E6",
 
       cardBg: "#ffffff",
@@ -191,9 +191,9 @@ export default function App() {
      {
       name: "أيام",
       message:"عيدكك مباركك أيام، برتقالتي الأردنية المفضلة، بعرفش أعبرلك بس كثير بحبك وبحب حكيك، وبموت بس نلاقي اهتمام مشترك بينا، الله ييسرلك أمرك ويسعدك دايماً، استمتعي بيومك حبي (≧∇≦)ﾉ",
-      photo: "/coffe.png",
-      secondImage: "/orange.png",
-      thirdImage: "/arr4.png",
+      photo: "coffe.png",
+      secondImage: "orange.png",
+      thirdImage: "arr4.png",
       bg: "#FF8C00",
 
       cardBg: "#ffffff",
@@ -205,10 +205,10 @@ export default function App() {
     },
      {
       name: "رنيم",
-      message:" رنوميي، عيدكك مباركك درعاويتي، بحبك كثير كثير وبحب وقت تعرفنا والإضافة للتايملاين الي عاملتيها، سهل كثير الواحد يوخذ عليك حتى لو ما بعرفك من وقت طويل، كثير مريحة، الله يسعدك ويوفقك ويرضيك، استمتعي بيومك يحلو ( •̀ ω •́ )y",
-      photo: "/grape3.png",
-      secondImage: "/coffe2.png",
-      thirdImage: "/arr4.png",
+      message:" رنوميي، عيدكك مباركك درعاويتي، بحبك كثير كثير وبحب وقت تعرفنا والإضافة للتايملاين الي عاملتيها، سهل كثير الواحد يوخذ عليك حتى لو ما بعرفك من وقت طويل， كثير مريحة， الله يسعدك ويوفقك ويرضيك， استمتعي بيومك يحلو ( •̀ ω •́ )y",
+      photo: "grape3.png",
+      secondImage: "coffe2.png",
+      thirdImage: "arr4.png",
       bg: "#df3434",
 
       cardBg: "#ffffff",
@@ -221,9 +221,9 @@ export default function App() {
      {
       name: "هيو",
       message:"هيوو صديقي الأول بالموقع، عيدك مبارك يحلوو، مشتاقة لك كثيير، بتعرفيش كم مبسوطتلك لما أشوفك بالتابملاين هالفترة، إن شاء الله دايماً سعيدة وراضية، الله يوفقك وييسر أمرك، استمتعي بيومك                      ⪩. .⪨",
-      photo: "/horse2.png",
-      secondImage: "/cow4.png",
-      thirdImage: "/arr4.png",
+      photo: "horse2.png",
+      secondImage: "cow4.png",
+      thirdImage: "arr4.png",
       bg: "#FFEE97",
 
       cardBg: "#ffffff",
@@ -236,9 +236,9 @@ export default function App() {
     {
       name: "سمسم",
       message:"سمسمسمسم، عيدك مبارك يعسل، اسم عمسمى وبرضو سمسم مثالي إلك، بحبك كثير وبحب حكيك وتحليلك، وجودك خفيف ومطمأن للنفس حتى لو ما بنحكي كثير، الله يسعدك وييسر أمرك، استمتعي بيومك يا حلوة (❁´◡`❁)",
-      photo: "/choco2.png",
-      secondImage: "/smsm2.png",
-      thirdImage: "/arr4.png",
+      photo: "choco2.png",
+      secondImage: "smsm2.png",
+      thirdImage: "arr4.png",
       bg: "#609090",
 
       cardBg: "#ffffff",
@@ -250,10 +250,10 @@ export default function App() {
     },
     {
       name: "سمية",
-      message:" عيدكك مباركك حرفيتنا، وجودك بالتايملاين سعادة، بحبك وبحب رسمك وتصويرك وإبداعك بالخياطة، أنتظر أتعرف عجانبك المجنون أكثر لا تخبيه، الله يسعدك وييسر أمرك، استمتعي بيومك ╰(*°▽°*)╯ ",
-      photo: "/river.png",
-      secondImage: "/flower2.png",
-      thirdImage: "/arr4.png",
+      message:" عيدكك مباركك حرفيتنا، وجودك بالتايملاين سعادة، بحبك وبحب رسمك وتصويرك وإبداعك بالخياطة، أنتظر أتعرف عجانبك المجنون أكثر لا تخبيه， الله يسعدك وييسر أمرك， استمتعي بيومك ╰(*°▽°*)╯ ",
+      photo: "river.png",
+      secondImage: "flower2.png",
+      thirdImage: "arr4.png",
       bg: "#B261B2",
 
       cardBg: "#ffffff",
@@ -265,10 +265,10 @@ export default function App() {
     },
     {
       name: "هنهن",
-      message:"هنيتي♡ عيدك مبارك حبيبتي، كثير كثير بحبك، وبحب أقرأ حكيك وأسمع صوتك، لفترة مش قصيرة كان صوتك نقطتي الآمنة كل ما حسيت بالفراغ والتنمل، كان يعيد أحاسيسي بالمحيط حولي وبنفسي، الله يسعدك ويوفقك ويرضيك، استمتعي بيومك قمري  (๑>◡<๑) ",
-      photo: "/cloud.png",
-      secondImage: "/sea.png",
-      thirdImage: "/arr4.png",
+      message:"هنيتي♡ عيدك مبارك حبيبتي، كثير كثير بحبك، وبحب أقرأ حكيك وأسمع صوتك، لفترة مش قصيرة كان صوتك نقطتي الآمنة كل ما حسيت بالفراغ والتنمل， كان يعيد أحاسيسي بالمحيط حولي وبنفسي， الله يسعدك ويوفقك ويرضيك， استمتعي بيومك قمري  (๑>◡<๑) ",
+      photo: "cloud.png",
+      secondImage: "sea.png",
+      thirdImage: "arr4.png",
       bg: "#C1E6FD",
 
       cardBg: "#ffffff",
@@ -280,9 +280,9 @@ export default function App() {
     },{
       name: "رواسي",
       message:"ماما روري حبيب قلبي، عيدك مباركك يا عسل، تعرفي عليك من الذكريات الي مستحيل أنساها، إن كان من فترة أو طريقة، بحبك كثيير كثيير ومبسوطتلك من قلبي لكل شي بصير لك، الله يحفظلك نورة ويقر عيونك فيها، والله يسعدك ويرضيك، استمتعي بيومكك ◝(ᵔᗜᵔ)◜",
-      photo: "/stars2.png",
-      secondImage: "/star2.png",
-      thirdImage: "/arr4.png",
+      photo: "stars2.png",
+      secondImage: "star2.png",
+      thirdImage: "arr4.png",
       bg: "#F0E68C",
 
       cardBg: "#ffffff",
@@ -293,10 +293,10 @@ export default function App() {
       shadow: "0 10px 30px rgba(0,0,0,0.2)"
     },{
       name: "فطوم",
-      message:"فطومي، عيدك مباركك وتقبل الله طاعاتك، بحبك كثير كثيير، الله يسعدك ويوفقك ويرضيك، استمتعي بيومك ૮(•͈⌔•͈)ა",
-      photo: "/pen.png",
-      secondImage: "/coffe3.png",
-      thirdImage: "/arr4.png",
+      message:"فطومي، عيدك مباركك وتقبل الله طاعاتك، بحبك كثير كثيير، الله يسعدك ويوفقك ويرضيك， استمتعي بيومك ૮(•͈⌔•͈)ა",
+      photo: "pen.png",
+      secondImage: "coffe3.png",
+      thirdImage: "arr4.png",
       bg: "#FAF0E6",
 
       cardBg: "#ffffff",
@@ -308,9 +308,9 @@ export default function App() {
     },{
       name: "تولينا",
       message:" توليناا، عيدك مباركك حبيبتي، صديقي الجميل إلي محلي  أيام الجامعة، بحبك كثيير كثير وبتمنالك كل الخير بأيامك الجاية، استمتعي بيومك حبي 𓆩❤︎𓆪  ",
-      photo: "/flowers.png",
-      secondImage: "/mehndi.png",
-      thirdImage: "/arr4.png",
+      photo: "flowers.png",
+      secondImage: "mehndi.png",
+      thirdImage: "arr4.png",
       bg: "#FFE0E5",
 
       cardBg: "#ffffff",
@@ -322,9 +322,9 @@ export default function App() {
     },{
       name: "شهد",
       message:"  شهوديي، عيدك مبارك يحلو، مهندستي إلي معي من أول يوم  ولحد فصل التخرج ❤︎ بحبك كثير وبحب تصويرك، الله يسعدك ويوفقك، استمتعي بيومك  (✿◠‿◠) ",
-      photo: "/flowers2.png",
-      secondImage: "/food2.png",
-      thirdImage: "/arr4.png",
+      photo: "flowers2.png",
+      secondImage: "food2.png",
+      thirdImage: "arr4.png",
       bg: "#A68A65",
 
       cardBg: "#ffffff",
@@ -337,9 +337,9 @@ export default function App() {
     {
       name: "شيما",
       message:"شمشوميي، عيدكك مباركك حبيي، بحبكك كثير وبحب الحكي والكعدة معك، الله يسعدك ويوفقك ويرضيك، استمتعي بيومك (✿◡‿◡)",
-      photo: "/travel.png",
-      secondImage: "/sunset.png",
-      thirdImage: "/arr4.png",
+      photo: "travel.png",
+      secondImage: "sunset.png",
+      thirdImage: "arr4.png",
       bg: "#87CEEB",
 
       cardBg: "#ffffff",
@@ -352,9 +352,9 @@ export default function App() {
     {
       name: "شيما",
       message:"شمشوميي، عيدكك مباركك حبيي، بحبكك كثير وبحب الحكي والكعدة معك، الله يسعدك ويوفقك ويرضيك، استمتعي بيومك (✿◡‿◡)",
-      photo: "/travel.png",
-      secondImage: "/sunset.png",
-      thirdImage: "/arr4.png",
+      photo: "travel.png",
+      secondImage: "sunset.png",
+      thirdImage: "arr4.png",
       bg: "#87CEEB",
 
       cardBg: "#ffffff",
@@ -367,9 +367,9 @@ export default function App() {
     {
       name: "داليا",
       message:"دلوو، عيدك مبارك يحلوو، بحبك واشتقت لك وللكعدة معك، الله يسعدك ويوفقك ويرضيك، استمتعي بيومكك (˶ᵔ ᵕ ᵔ˶)",
-      photo: "/flowers3.png",
-      secondImage: "/star2.png",
-      thirdImage: "/arr4.png",
+      photo: "flowers3.png",
+      secondImage: "star2.png",
+      thirdImage: "arr4.png",
       bg: "#8FBC8F",
 
       cardBg: "#ffffff",
@@ -381,9 +381,9 @@ export default function App() {
     },{
       name: "ميما",
       message:"عيدك مباركك ميما، تقبل الله طاعاتكم(✿◠‿◠)",
-      photo: "/flowers4.png",
-      secondImage: "/coffe4.png",
-      thirdImage: "/arr4.png",
+      photo: "flowers4.png",
+      secondImage: "coffe4.png",
+      thirdImage: "arr4.png",
       bg: "#D8BFD8",
 
       cardBg: "#ffffff",
@@ -395,9 +395,9 @@ export default function App() {
     },{
       name: "لميس",
       message:"عيدك مبارك خالتيي،  تقبل الله طاعاتكم(✿◠‿◠)",
-      photo: "/flowers6.png",
-      secondImage: "/coffe5.png",
-      thirdImage: "/arr4.png",
+      photo: "flowers6.png",
+      secondImage: "coffe5.png",
+      thirdImage: "arr4.png",
       bg: "#FFC0CB",
 
       cardBg: "#ffffff",
@@ -409,9 +409,9 @@ export default function App() {
     },{
       name: "خزامى",
       message:"عيدكك مباركك خزامى،  تقبل الله طاعاتكم(˶>⩊<˶)",
-      photo: "/lave.png",
-      secondImage: "/lav.png",
-      thirdImage: "/arr4.png",
+      photo: "lave.png",
+      secondImage: "lav.png",
+      thirdImage: "arr4.png",
       bg: "#EE82EE",
 
       cardBg: "#ffffff",
@@ -423,9 +423,9 @@ export default function App() {
     },{
       name: "بشرى",
       message:"عيدكك مبارك خالتيي،  تقبل الله طاعاتكم(˶ᵔ ᵕ ᵔ˶)",
-      photo: "/flowers5.png",
-      secondImage: "/smsm2.png",
-      thirdImage: "/arr4.png",
+      photo: "flowers5.png",
+      secondImage: "smsm2.png",
+      thirdImage: "arr4.png",
       bg: "#FFDBE0",
 
       cardBg: "#ffffff",
@@ -437,9 +437,9 @@ export default function App() {
     },{
       name: "ورود",
       message:"عيدكك مباركك خالتيي،  تقبل الله طاعاتكم(๑>◡<๑)",
-      photo: "/flowers7.png",
-      secondImage: "/wo.png",
-      thirdImage: "/arr4.png",
+      photo: "flowers7.png",
+      secondImage: "wo.png",
+      thirdImage: "arr4.png",
       bg: "#E9DAC6",
 
       cardBg: "#ffffff",
@@ -451,9 +451,9 @@ export default function App() {
     },{
       name: "آية",
       message:"  عيدك مبارك آيوش،  تقبل الله طاعاتكم ㄟ(≧◇≦)ㄏ",
-      photo: "/paw.png",
-      secondImage: "/tree.png",
-      thirdImage: "/arr4.png",
+      photo: "paw.png",
+      secondImage: "tree.png",
+      thirdImage: "arr4.png",
       bg: "#FFB6C1",
 
       cardBg: "#ffffff",
@@ -466,9 +466,9 @@ export default function App() {
     {
       name: "توحيد",
       message:"عيدك مبارك توحيدةة، تقبل الله طاعاتكم، استمتعي بيومكك ꉂ(˵˃ ᗜ ˂˵)",
-      photo: "/travel3.png",
-      secondImage: "/teeth.png",
-      thirdImage: "/arr4.png",
+      photo: "travel3.png",
+      secondImage: "teeth.png",
+      thirdImage: "arr4.png",
       bg: "#F7C5CF",
 
       cardBg: "#ffffff",
@@ -481,9 +481,9 @@ export default function App() {
     {
       name: " حماد",
       message:"عيدك مبارك عمي، تقبل الله طاعاتكم ㅤ♡",
-      photo: "/coffe.png",
-      secondImage: "/sheep.png",
-      thirdImage: "/arr4.png",
+      photo: "coffe.png",
+      secondImage: "sheep.png",
+      thirdImage: "arr4.png",
       bg: "#d7fdfd",
 
       cardBg: "#ffffff",
