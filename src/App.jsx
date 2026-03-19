@@ -585,7 +585,7 @@ export default function App() {
         <p className="error-message">متأكد من اسمك؟ حاول مرة أخرى</p>
       )}
 
-      <img src="/start3.png" alt="decoration" className="start-decoration" />
+      <img src="start3.png" alt="decoration" className="start-decoration" />
     </div>
   );
 }
